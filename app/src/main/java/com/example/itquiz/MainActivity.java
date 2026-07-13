@@ -18,6 +18,7 @@ import android.os.Handler;
             public void run() {
                 Intent intent=new Intent(MainActivity.this,MainstartActivity.class);
                 startActivity(intent);
+                finish();
             }
         },1500);
     }
