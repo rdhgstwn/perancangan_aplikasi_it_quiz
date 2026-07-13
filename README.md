@@ -1,1 +1,0 @@
-# perancangan_aplikasi_it_quiz
